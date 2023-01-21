@@ -1,14 +1,12 @@
 ### Hi  👋, i'm Amir Hossain
 #### Web Developer
 ![Web Developer](https://thumbs.gfycat.com/ColorlessBitesizedKob.webp)
-
+# 💫 About Me:
 I'm a full-stack developer in JavaScript/NodeJS technologies. I've 1+ years of experience in MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) stack application development
 
 Skills: || Front-end web developer || React JS | Javascript | ES6 | Bootstrap | Node JS | Express JS | MongoDB
 
 - 🔭 I’m currently working on this page. 
-# 💫 About Me:
-<br>|| Front-end web developer || React JS | JavaScript | ES6 | Bootstrap | Node JS | Express JS | MongoDB<br><br>
 
 
 ## 🌐 Socials:
@@ -21,8 +19,7 @@ Skills: || Front-end web developer || React JS | Javascript | ES6 | Bootstrap | 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirhossain18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossain18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/bond_shawon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amirhossain18&icon=0&color=0)](https://visitcount.itsvg.in)
