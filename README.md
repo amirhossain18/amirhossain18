@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, i'm Amir Hossain
+#### Web Developer
+![Web Developer](https://thumbs.gfycat.com/RigidVeneratedDromedary-mobile.mp4)
 
-<!--
-**amirhossain18/amirhossain18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer in JavaScript/NodeJS technologies. I've 1+ years of experience in MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) stack application development
 
-Here are some ideas to get you started:
+Skills: || Front-end web developer || React JS | Javascript | ES6 | Bootstrap | Node JS | Express JS | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
