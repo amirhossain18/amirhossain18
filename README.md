@@ -1,6 +1,6 @@
-### Hi there 👋, i'm Amir Hossain
+### Hi  👋, i'm Amir Hossain
 #### Web Developer
-![Web Developer](https://thumbs.gfycat.com/RigidVeneratedDromedary-mobile.mp4)
+![Web Developer](https://thumbs.gfycat.com/ColorlessBitesizedKob.webp)
 
 I'm a full-stack developer in JavaScript/NodeJS technologies. I've 1+ years of experience in MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) stack application development
 
