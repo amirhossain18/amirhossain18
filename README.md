@@ -21,6 +21,8 @@ Skills: || Front-end web developer || React JS | Javascript | ES6 | Bootstrap | 
 
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e24742de862eafc28201e39a4150b8eda32b54ccd2391b1fb7af53aa5117a49/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746f6d736b7269636b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/6e24742de862eafc28201e39a4150b8eda32b54ccd2391b1fb7af53aa5117a49/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746f6d736b7269636b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="tomskrick" data-canonical-src="https://komarev.com/ghpvc/?username=amirhossain18&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amirhossain18&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
